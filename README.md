@@ -11,7 +11,7 @@
     width=600 (Wider to fit more info)
   -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Firmware+Analysis+%7C+MTK+%7C+SPD+%7C+Mocor;Bootloader+%7C+TEE+%7C+VoLTE+%7C+eFuse;Reversing+Apps+%7C+Cracking+%7C+Custom+ROMs;val+name+%3D+%22Bowe%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Firmware+Analysis+%7C+MTK+%7C+SPD+%7C+Mocor;Bootloader+%7C+TEE+%7C+VoLTE+%7C+eFuse;Reversing+Apps+%7C+Cracking+%7C+Custom+ROMs;val+name+%3D+%22B0W3%22" alt="Typing SVG" />
   </a>
 
   <br/>
